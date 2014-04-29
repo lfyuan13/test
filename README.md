@@ -1,6 +1,6 @@
 This is a test
-* This is italic *
-** This is bold **
+*This is italic*
+**This is bold**
 
 Item:
 * item1
@@ -11,4 +11,4 @@ Item:
 2. item22
 3. item23
 
-_ what's this_
+_what's this_
